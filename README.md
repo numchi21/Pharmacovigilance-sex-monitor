@@ -1,2 +1,12 @@
 # Pharmacovigilance-sex-monitor
-Final Master's Project
+
+# pharmawatch
+
+> Sex-stratified pharmacovigilance signal detection for drug adverse events.
+
+## Installation
+## Usage
+## Modules
+## UML diagram
+## Examples
+## License
