@@ -23,6 +23,7 @@ y este proyecto se adhiere a: [Semantic Versioning](https://semver.org/spec/v2.0
 ### Fixed
 - `main.py`: eliminado prefijo `f` innecesario en string sin placeholders (ruff F541)
 - `visualizer.py`: eliminado import no utilizado `matplotlib.patches` (ruff F401)
+- `README.md`: documentación completa del proyecto con secciones de instalación, uso, módulos, ejemplos, diagrama UML, fuentes de datos y licencia
 
 ---
 

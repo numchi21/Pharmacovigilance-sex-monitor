@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+pharmawatch/__init__.py
+pharmawatch/analizer.py
+pharmawatch/exceptions.py
+pharmawatch/loader.py
+pharmawatch/main.py
+pharmawatch/reference_finder.py
+pharmawatch/visualizer.py
+pharmawatch.egg-info/PKG-INFO
+pharmawatch.egg-info/SOURCES.txt
+pharmawatch.egg-info/dependency_links.txt
+pharmawatch.egg-info/requires.txt
+pharmawatch.egg-info/top_level.txt
