@@ -100,7 +100,7 @@ def step_reference(drugs_to_analyze: list) -> tuple:
         except ValueError:
             print("  Introduce un número válido.")
 
-    print(f"\n  ¿Cuántos fármacos de referencia quieres? (ej: 3, 5, 10, 50)")
+    print("\n  ¿Cuántos fármacos de referencia quieres? (ej: 3, 5, 10, 50)")
     while True:
         try:
             top_n = int(input("  > ").strip())

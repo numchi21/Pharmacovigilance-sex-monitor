@@ -10,7 +10,6 @@ Genera dos gráficos a partir de los resultados de SexStratifiedAnalysis:
 
 import textwrap
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
 import pandas as pd
 import numpy as np
 
